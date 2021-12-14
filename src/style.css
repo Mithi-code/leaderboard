@@ -8,12 +8,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
-  background-image: 
+  background-image:
     linear-gradient(
-    to right,
-    rgba(255, 0, 0, 0),
-    rgba(255, 0, 0, 1)
-  );
+       to right,
+     rgba(255, 0, 0, 0),
+     rgba(255, 0, 0, 1)
+    );
 }
 
 section {
