@@ -12,6 +12,8 @@
 ## Built With
 - HTML, CSS
 - Stylelint, Web Hint, Lighthouse
+-Javascript
+-Leaderboard API
 ## Live Demo
 [Live Demo Link]()
 ## Getting Started
