@@ -8,7 +8,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
-  background-image: linear-gradient(
+  background-image: 
+    linear-gradient(
     to right,
     rgba(255, 0, 0, 0),
     rgba(255, 0, 0, 1)
@@ -27,6 +28,13 @@ section {
   color: rgb(15, 1, 1);
   border-right: 6px solid black;
   border-bottom: 6px solid black;
+}
+
+form .btn {
+  width: 100px;
+  padding: 10px;
+  align-self: flex-end;
+  text-align: center;
 }
 
 .btn:hover {
@@ -63,13 +71,6 @@ section .container {
 
 form input {
   padding: 10px;
-}
-
-form .btn {
-  width: 100px;
-  padding: 10px;
-  align-self: flex-end;
-  text-align: center;
 }
 
 .title .btn {
