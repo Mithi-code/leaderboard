@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Leaderboard
 > Leaderboard website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
-![screenshot](./images/app.png)
+![screenshot](./app.png)
 ### Additional description about the project and its features:
 - Adding a new item.
 - Removing a selected item.
