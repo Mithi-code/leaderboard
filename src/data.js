@@ -1,15 +1,14 @@
 export default [
-    {
-      name: 'Mithi',
-      score: 100,
-    },
-    {
-      name: 'Furkan',
-      score: 200,
-    },
-    {
-      name: 'Temi',
-      score: 300,
-    },
-  ];
-  
+  {
+    name: 'Mithi',
+    score: 100,
+  },
+  {
+    name: 'Furkan',
+    score: 200,
+  },
+  {
+    name: 'Temi',
+    score: 300,
+  },
+];
