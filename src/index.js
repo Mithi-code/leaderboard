@@ -10,11 +10,10 @@ async function render() {
 }
 render();
 
-btn.addEventListener('click', async () => {
+btn.addEventListener('click', () => {
   const user = document.querySelector('#name').value;
   const score = Number(document.querySelector('#score').value);
   const obj = { user, score };
-
   addScore(obj);
   document.querySelector('#name').value = '';
   document.querySelector('#score').value = '';

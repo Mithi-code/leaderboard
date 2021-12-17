@@ -43,7 +43,6 @@ form .btn {
 }
 
 .score-display {
-  border: 1.5px solid #333;
   margin-top: 20px;
 }
 
@@ -71,6 +70,7 @@ section .container {
 
 form input {
   padding: 10px;
+  border-radius: 20px;
 }
 
 .title .btn {
@@ -93,8 +93,12 @@ li {
   padding: 5px 10px;
 }
 
+li:nth-child(odd) {
+  background: rgb(179, 179, 190);
+}
+
 li:nth-child(even) {
-  background: #241e23e1;
+  background: #1a0f17e1;
   color: #fff;
 }
 

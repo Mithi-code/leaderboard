@@ -15,7 +15,7 @@
 -Javascript
 -Leaderboard API
 ## Live Demo
-[Live Demo Link](https://mithi-code.github.io/leaderboard/)
+[Live Demo Link](https://mithi-code.github.io/leaderboard/dist)
 ## Getting Started
 To get a local copy up and running, follow the steps in Setup below.
 ### Prerequisites
